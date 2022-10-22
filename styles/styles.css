@@ -9,7 +9,7 @@
 
 
 body {
-    background: linear-gradient(180deg, #504cee 9%, #8dd0f5 100%);
+    background: url('../img/high-angle-closeup-shot-of-an-isolated-green-leaf-in-a-puddle-on-a-rainy-day.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    background-color: #5c54ed;
+    background-color: #75a5ff48;
     box-shadow: rgba(0, 0, 0, .24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
